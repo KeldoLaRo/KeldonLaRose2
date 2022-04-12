@@ -1,0 +1,37 @@
+.header{
+    text-align: center;
+    background-color: aquamarine;
+    line-height: 40px;
+    height: 100px;
+    text-decoration: underline;
+}
+
+.mainbody{
+    background-color: darkcyan;
+    text-align: center;
+    padding: 15px;
+    color: darksalmon;
+    width: auto;
+}
+
+.footer{
+    height: 65px;
+    background-color: bisque;
+    text-align: center;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    color:black
+}
+
+h1 {
+    color: coral;
+    font-style: italic;
+}
+#ulinline{
+    display: inline;
+    margin-right: 40px;
+}
+.linkT{
+    text-decoration: underline;
+    text-align: center;
+    color: purple;
+}

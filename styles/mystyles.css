@@ -1,0 +1,64 @@
+p{
+    font-family: 'Times New Roman', Times, serif;
+    text-align: center;
+}
+
+h1{
+    color: aquamarine;
+    text-align: center;
+}
+img{
+    width: 400px;
+    margin-left: auto;
+    margin-right: auto;
+    display: block;
+}
+ol{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-style: italic;
+}
+ul{
+    font-family: 'Courier New', Courier, monospace;
+}
+
+h2{
+    font-weight: 100;
+    font-family: 'Times New Roman', Times, serif;
+    font-style: italic;
+    text-align: center;
+}
+li{
+    text-align: left;
+    font-style: italic;
+    color: red;
+}
+#h1m{
+    color: black;
+}
+.masthead{
+    height: 700px;
+}
+#change{
+    color: black;
+}
+.video{
+    text-align: center;
+}
+.subheading1{
+  font-size: 1.5rem;
+  font-weight: 300;
+  line-height: 1.1;
+  text-decoration: underline;
+  display: block;
+  margin-top: 0.625rem;
+  color: white;
+  font-family: "Open Sans", -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, sans-serif, "Apple Color Emoji", "Segoe UI Emoji", "Segoe UI Symbol", "Noto Color Emoji";
+}
+.organize{
+    text-align: center;
+    text-decoration: underline;
+}
+.link{
+    text-decoration: underline;
+    color: purple;
+}
